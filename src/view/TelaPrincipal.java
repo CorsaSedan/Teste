@@ -19,6 +19,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
     private TelaProduto telaProduto = new TelaProduto();
 
     String teste;
+    String teste2;
     
     public TelaPrincipal() {
         initComponents();
