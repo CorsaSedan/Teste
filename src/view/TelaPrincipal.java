@@ -20,6 +20,7 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
     String teste;
     String teste2;
+    String teste3;
     
     public TelaPrincipal() {
         initComponents();
